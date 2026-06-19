@@ -5,6 +5,8 @@
 Raw text exports from the OTIOSE system.
 Un-buffered, mirrored natively across 31 global languages.
 
+**[Read the Ideological Root: The Sustainability Manifesto](records/en/manifesto.md)**
+
 ## Records
 
 Current active records synced from the database:
