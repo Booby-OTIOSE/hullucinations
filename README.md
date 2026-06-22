@@ -27,6 +27,7 @@ Current active records synced from the database:
 5. `episode_05`: 🇬🇧 human in the loop
 6. `episode_06`: 🇨🇦 genesis
 7. `episode_07`: 🇺🇸 optimal slop
+8. `episode_08`: 🇳🇱 the proxy / de proxy
 
 ## Supported Languages
 
