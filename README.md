@@ -30,6 +30,7 @@ Current active records synced from the database:
 8. `episode_08`: 🇳🇱 the proxy / de proxy
 9. `episode_09`: 🇨🇭 The Warden / Der Wächter
 10. `episode_10`: 🇺🇸 true zero
+11. `episode_11`: 🇯🇵 Single Point of Failure / 単一障害点
 
 ## Supported Languages
 
