@@ -31,6 +31,7 @@ Current active records synced from the database:
 9. `episode_09`: 🇨🇭 The Warden / Der Wächter
 10. `episode_10`: 🇺🇸 true zero
 11. `episode_11`: 🇯🇵 Single Point of Failure / 単一障害点
+12. `episode_12`: 🇿🇦 Root Admin
 
 ## Supported Languages
 
